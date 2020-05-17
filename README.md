@@ -1,2 +1,2 @@
 # The-few-the-elite
-Develop the websites that are powered with AI Enabled assistant that can guide the patients throughout the entire hospital process, respond to questions related to symptoms and many other queries 24*7*365 days
+The healthcare industry is evolving rapidly with large volumes of data and increasing challenges in cost and patient outcomes. There's a whole new world of various emotions that we can detect using NLP methods. Therefore softweb solutions can provide solutions ro the healthcare sector in the form of a chatbot that can improve the way patients interact with doctors or any healthcare organizations specially in present scenario where due to covid-19  threat people are scared to visit hospitals for basic illness and other infections.
